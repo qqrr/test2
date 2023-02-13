@@ -2,7 +2,7 @@
     "metadata": {
         "version": "1"
     },
-    "templates": [
+    "": [
         {
             "path": "",
             "name": "Golang Hello World App",
